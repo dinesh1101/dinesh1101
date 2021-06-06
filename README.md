@@ -3,7 +3,7 @@
 <h3 align="center">A young dumb who loves front-end</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh1101&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh1101" /> </p>
-<h3>Pursuing M.Sc.IT(Integrated) at Anna University,CEG campus</h3>
+##Pursuing M.Sc.IT(Integrated) at Anna University,CEG campus
 
 - 🌱 I’m currently learning **ReactJs**
 
