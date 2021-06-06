@@ -3,8 +3,7 @@
 <h3 align="center">A young dumb who loves front-end</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh1101&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh1101" /> </p>
-
-<p align="left"> <a href="https://twitter.com/dinesh_r_" target="blank"><img src="https://img.shields.io/twitter/follow/dinesh_r_?logo=twitter&style=for-the-badge" alt="dinesh_r_" /></a> </p>
+<h3>Pursuing M.Sc.IT(Integrated) at Anna University,CEG campus</h3>
 
 - 🌱 I’m currently learning **ReactJs**
 
