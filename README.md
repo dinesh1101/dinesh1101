@@ -23,5 +23,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh1101&show_icons=true&locale=en&layout=compact" alt="dinesh1101" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinesh1101&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinesh1101&theme=radical)
 
