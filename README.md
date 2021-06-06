@@ -23,4 +23,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh1101&show_icons=true&locale=en&layout=compact" alt="dinesh1101" /></p>
 
-![ChungZH's github stats](https://github-readme-stats.vercel.app/api?username=ChungZH&theme=gruvbox&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinesh1101&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
