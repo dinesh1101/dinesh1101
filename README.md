@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **Database, Aptitude**
 
 - 📫 How to reach me **dineshravichandran1999@gmail.com**
 
